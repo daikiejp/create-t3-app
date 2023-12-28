@@ -1,5 +1,11 @@
 # Changelog
 
+## 7.25.1
+
+### Patch Changes
+
+- [#1708](https://github.com/t3-oss/create-t3-app/pull/1708) [`8f379b4`](https://github.com/t3-oss/create-t3-app/commit/8f379b4df75e56b98973aabcc2097b62be80d0c7) Thanks [@KATT](https://github.com/KATT)! - chore: drop `t.middleware()`
+
 ## 7.25.0
 
 ### Minor Changes
